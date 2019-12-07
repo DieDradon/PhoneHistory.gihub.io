@@ -94,3 +94,10 @@ font-family: 'Abril Fatface', cursive;
     font-family: 'Amatic SC', cursive;
     font-size: 16pt;
 }
+
+@media screen and (max-width: 1000px) {
+    .main {
+        margin-right: 0;
+        width:60%;
+    }
+  }
